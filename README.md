@@ -1,3 +1,5 @@
+
+
 <table width="100%">
 <tr>
 <td width="55%" valign="middle">
@@ -15,17 +17,32 @@
 
 ---
 
-# 💫 About Me:
+
+# 💫 About Me: <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+
 - 🔭 Data Scientist &nbsp;|&nbsp; ML Engineer &nbsp;|&nbsp; Data Analyst &nbsp;|&nbsp; AI Engineer
+<br>
+<br>
 - 👯 I'm looking to collaborate on any AI / Data / Web project
+<br>
+<br>
 - 💬 Ask me about **Python, ML, Data Science, AI**
+<br>
+<br>
 - 📫 How to reach me: **your@email.com**
+<br>
+<br>
 - ⚡ Fun fact **Doesn't Exist!!**
+<br>
+<br>
 - 🐧 A linux Enthusiast (Ubuntu user) !!
+
 $\color{#B39DDB}{\textsf{Manav Mann}}$
 <br>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%">
+</p>
 
 ### 🌌 Find me around the web
 
@@ -37,11 +54,6 @@ $\color{#B39DDB}{\textsf{Manav Mann}}$
   <a href="https://instagram.com/your-instagram"><img src="https://img.shields.io/badge/Instagram-1a1a2e?style=for-the-badge&logo=instagram&logoColor=F27CA8" /></a>
   <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=googlechrome&logoColor=8892FF" /></a>
 </p>
-
-<p align="center"><em>👆 swap these links for your real handles!</em></p>
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -73,9 +85,15 @@ $\color{#B39DDB}{\textsf{Manav Mann}}$
 
 </div>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%">
+</p>
 
 ## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180">
+</div>
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=manavstack-ship-it&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d1a&title_color=B39DDB&icon_color=F27CA8&text_color=8892FF" />
@@ -90,7 +108,17 @@ $\color{#B39DDB}{\textsf{Manav Mann}}$
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=manavstack-ship-it&theme=react-dark&hide_border=true&bg_color=0d0d1a&color=8892FF&line=F27CA8&point=B39DDB" width="90%"/>
 </div>
 
----
+### 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/manavstack-ship-it/manavstack-ship-it/output/github-contribution-grid-snake-dark.svg" width="90%">
+</div>
+
+<p align="center"><em>👆 this animated snake eats your contribution graph — set it up with the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action to make it live!</em></p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%">
+</p>
 
 <div align="center">
 
@@ -100,3 +128,5 @@ $\color{#B39DDB}{\textsf{Manav Mann}}$
 ![Profile Views](https://komarev.com/ghpvc/?username=manavstack-ship-it&color=B39DDB&style=flat-square&label=Profile+Views)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:2d1b4e,100:1a1a2e&height=120&section=footer" width="100%"/>
