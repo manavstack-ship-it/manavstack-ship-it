@@ -1,5 +1,4 @@
 
-
 <table width="100%">
 <tr>
 <td width="55%" valign="middle">
@@ -23,7 +22,7 @@
 - 🔭 Data Scientist &nbsp;|&nbsp; ML Engineer &nbsp;|&nbsp; Data Analyst &nbsp;|&nbsp; AI Engineer
 - 👯 I'm looking to collaborate on any AI / Data / Web project
 - 💬 Ask me about **Python, ML, Data Science, AI**
-- 📫 How to reach me: **your@email.com**
+- 📫 How to reach me: **manavstack@gmail.com**
 - ⚡ Fun fact **Doesn't Exist!!**
 - 🐧 A linux Enthusiast (Ubuntu user) !!
 
@@ -74,9 +73,6 @@ $\color{#B39DDB}{\textsf{Manav Mann}}$
 | ![Git](https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=8892FF) | ![Docker](https://img.shields.io/badge/Docker-1a1a2e?style=for-the-badge&logo=docker&logoColor=5DA9E9) | ![AWS](https://img.shields.io/badge/AWS-1a1a2e?style=for-the-badge&logo=amazonaws&logoColor=F27CA8) | ![VSCode](https://img.shields.io/badge/VS%20Code-1a1a2e?style=for-the-badge&logo=visualstudiocode&logoColor=C4A7E7) |
 
 </div>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%">
 </p>
 
 ## 📈 GitHub Stats
@@ -96,21 +92,7 @@ $\color{#B39DDB}{\textsf{Manav Mann}}$
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=manavstack-ship-it&theme=react-dark&hide_border=true&bg_color=0d0d1a&color=8892FF&line=F27CA8&point=B39DDB" width="90%"/>
-</div>
-
-### 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/manavstack-ship-it/manavstack-ship-it/output/github-contribution-grid-snake-dark.svg" width="90%">
-</div>
-
-<p align="center"><em>👆 this animated snake eats your contribution graph — set it up with the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action to make it live!</em></p>
-
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%">
-</p>
-
-<div align="center">
 
 ### 🌙 Thanks for stopping by! 🌙
 *"Data tells stories, and I love being the one to translate them."*
