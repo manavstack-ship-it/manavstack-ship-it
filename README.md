@@ -17,22 +17,11 @@
 
 # 💫 About Me:
 - 🔭 Data Scientist &nbsp;|&nbsp; ML Engineer &nbsp;|&nbsp; Data Analyst &nbsp;|&nbsp; AI Engineer
-<br>
-<br>
 - 👯 I'm looking to collaborate on any AI / Data / Web project
-<br>
-<br>
 - 💬 Ask me about **Python, ML, Data Science, AI**
-<br>
-<br>
 - 📫 How to reach me: **your@email.com**
-<br>
-<br>
 - ⚡ Fun fact **Doesn't Exist!!**
-<br>
-<br>
 - 🐧 A linux Enthusiast (Ubuntu user) !!
-
 $\color{#B39DDB}{\textsf{Manav Mann}}$
 <br>
 
